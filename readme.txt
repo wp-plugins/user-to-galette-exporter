@@ -1,9 +1,9 @@
-=== Keypress-list ===
+=== User to Galette Exporter ===
 Contributors: Jud_Alex
 Tags: Galette
 Requires at least: 3.0.1
 Tested up to: 4.1.2
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
